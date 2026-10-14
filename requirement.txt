@@ -1,0 +1,5 @@
+langchain-groq
+langchain-mcp-adapters  # you can use mcp prop in langchain
+ # mcp uses fast mcp internally
+mcp
+langgraph
